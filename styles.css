@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: rgb (0, 93, 93)
+    font-family: comic sans ms, sans-serif;
+    font-size: 1.5em;
+    background-color: white;
+}
+
+p { 
+    line-height: 1.5em;
+}
+
+h1, h2 {
+    font-family: comic sans ms, sans-serif;
+    background-color: yellow;
+    color: black;
+    padding: 12px;
+    text-transform: uppercase;
+}
+
+h1 {
+    text-align: center;
+}
+
+ol li a {
+    display: block;
+    background-color: red; 
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    border: 5px solid black;
+    text-decoration: none;
+    margin-bottom: 5px;
+
+}
